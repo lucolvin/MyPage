@@ -1,0 +1,20 @@
+{
+  "name": "testproj",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.2.0"
+  },
+  "dependencies": {
+    "i": "^0.3.7",
+    "npm": "^9.6.2",
+    "or": "^0.2.0",
+    "three-rubiks-cube": "^1.2.3"
+  }
+}
